@@ -1,5 +1,21 @@
 # Franz Changelog
 
+## 0.9.10
+* Added ChatWork integration
+* Added Gitter integration
+* Added Discord integration
+* Added Steam Chat integration
+* Added option to mute audio
+* Added voice/video calls to Slack and Facebook Messenger
+* Added zoom in/out for services
+* Fixed tab switch shortcut does not override text selection
+* Fixed Franz license
+* [Windows] Added installer certificate
+* [Windows] Added taskbar message badge  
+* [Windows 7+8] Improved notifications
+* [Windows + Linux] Added minimize to system tray
+* [Windows + Linux] Fixed scrolling problems
+
 ## 0.9.9
 * **Added Windows beta version**
 * **Added Linux beta version**
