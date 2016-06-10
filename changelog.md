@@ -5,7 +5,7 @@
 * Added Tweetdeck integration
 * Added DingTalk integration
 * Added Rocket.Chat integration
-* Added Matermost integration
+* Added Mattermost integration
 * Added Flowdock integration ([A huge thanks to our community!](http://www.meetfranz.com/acknowledgements.html))
 * Added MySMS integration
 * Added support for Slack team icons
@@ -13,7 +13,7 @@
 * Added settings
 * Added option to clear cache
 * Added option to view/download skype attachments
-* Added support for hangouts videocalls
+* Added support for Hangouts videocalls
 * Added 40 Languages ([A huge thanks to our community!](http://www.meetfranz.com/acknowledgements.html)):
     * Afrikaans, Bahasa Indonesia - Indonesian, Bahasa melayu - Malay, català - Catalan, dansk - Danish, Deutsch - German, Deutsch (Wienerisch) 😻 - German, English, español - Spanish, español (andaluz) - Spanish (Andaluz), français - French, Galego - Galician, Hrvatski - Croatian, italiano - Italian, latviešu valoda - Latvian, lietuvių kalba - Lithuanian, magyar - Hungarian, Nederlands - Dutch, norsk - Norwegian, polski - Polish, português - Portugese, português do Brasil - Portugese, română - Romanian, shqip - Albanian, srpski jezik - Serbian (Latin), suomi - Finnish, svenska - Swedish, tiếng việt - Vietnamese, Türkçe - Turkish, čeština - Czech, Русский - Russian, српски језик - Serbian (Cyrillic), Українська - Ukrainian, עברית - Hebrew, العربية - Arabic, فارسی - Persian, 中文 (简体) - Chinese (Simplified), 中文 (繁體) - Chinese (Traditional), 日本語 - Japanese, 한국어 - Korean
 * [OSX] Added spellcheck
@@ -26,7 +26,7 @@
 * Fixed notification badges for muted chats on Messenger and WhatsApp
 * Fixed notification sound duplicate for Slack, Skype, WhatsApp and Telegram
 * Fixed focus issue when switching to Franz
-* Fixed giphy integration on HipChat
+* Fixed Giphy integration on HipChat
 * Fixed notifications issues on Ubuntu 16.04
 * Fixed shortcut for zooming in/out
 * Fixed Grape unread message indicator
