@@ -1,5 +1,14 @@
 # Franz Changelog
 
+## 3.0.1
+* Fixed Tweetdeck two-factor authentication
+* Fixed Telegram focus issue
+* Fixed DingTalk login issues
+* [OSX] Fixed missing service icons in notifications
+* Fixed zoom in shortcut on English keyboards
+* Improved custom service URL support
+* [Linux] Improved resolution of system tray icons
+
 ## 3.0.0 (beta)
 * Added support for HipChat custom servers
 * Added Tweetdeck integration
