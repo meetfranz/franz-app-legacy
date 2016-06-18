@@ -1,6 +1,10 @@
 # Franz Changelog
 
-## 3.0.1
+## 3.0.2 (beta, Windows and Linux only)
+* [Windows, Linux] Fixed memory leak issue
+* [Linux] Fixed system tray icons not displaying (some desktop environments)
+
+## 3.0.1 (beta)
 * Fixed Tweetdeck two-factor authentication
 * Fixed Telegram focus issue
 * Fixed DingTalk login issues
