@@ -1,5 +1,22 @@
 # Franz Changelog
 
+## 3.1.0 (beta)
+* Improved redirect logic
+* Pressing "esc" should not open the acknowledgements page
+* Fix tab order when new tab is created
+* Added Gmail integration
+* Added Inbox by Gmail integration
+* Added Outlook.com integration
+* Improved spellchecker
+* Improved Twitter share messages
+* Impoved Slack badge
+* Remove inconsistent language
+* Improved notification image selection
+* Improved settings behaviour
+* Fixed issue with "predefined" languages
+* Improved indirect message handling support
+* Improved URL validation
+
 ## 3.0.2 (beta, Windows and Linux only)
 * [Windows, Linux] Fixed memory leak issue
 * [Linux] Fixed system tray icons not displaying (some desktop environments)
