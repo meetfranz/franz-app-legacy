@@ -9,7 +9,7 @@
 * Added Outlook.com integration
 * Improved spellchecker
 * Improved Twitter share messages
-* Impoved Slack badge
+* Improved Slack badge
 * Remove inconsistent language
 * Improved notification image selection
 * Improved settings behaviour
