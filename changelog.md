@@ -1,5 +1,14 @@
 # Franz Changelog
 
+## 3.1.1 (beta)
+* [Windows, Linux] Added run Franz in background/minimise to system tray
+* Added shortcut to reload service (individual service: ctrl/cmd+r; all: ctrl/cmd+shift+r)
+* Fixed "black screen" intermittent
+* Fixed damaged settings bug
+* Fixed Gmail zero unread messages bug
+* Fixed "Show unread message badge for all new messages" setting
+* Misc translation improvements
+
 ## 3.1.0 (beta)
 * Improved redirect logic
 * Pressing "esc" should not open the acknowledgements page
@@ -9,7 +18,7 @@
 * Added Outlook.com integration
 * Improved spellchecker
 * Improved Twitter share messages
-* Impoved Slack badge
+* Improved Slack badge
 * Remove inconsistent language
 * Improved notification image selection
 * Improved settings behaviour
