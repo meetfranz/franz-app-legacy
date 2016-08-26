@@ -1,5 +1,29 @@
 # Franz Changelog
 
+## 4.0.0 (beta)
+* Added option to globally mute/unmute all notificiations
+* Added option to enable/disable services
+* Added quick edit menu to the tab bar
+* Added option to launch Franz on system start
+* Added VK integration
+* Added Wire integration
+* Added ICQ integration
+* Added IRCCloud integration
+* Added Cisco Spark integration
+* Added Facebook Pages integration + focus mode
+* Added LinkedIn integration + focus mode
+* Added Hibox integration
+* Added Couple.me integration
+* Added Yahoo! Messenger integration
+* Added Zendesk integration
+* [**Added API to add custom integrations**](http://github.com/meetfranz/plugins)
+* Added support for Yodel calls
+* [Windows] Fixed issue when restoring maximized window from system tray
+* Fixed Gmail "Grrr! Popup Blocker" message
+* Improved save settings/backup logic
+* Fixed open Skype links in browser
+* Misc translation improvements
+
 ## 3.1.1 (beta)
 * [Windows, Linux] Added run Franz in background/minimise to system tray
 * Added shortcut to reload service (individual service: ctrl/cmd+r; all: ctrl/cmd+shift+r)
