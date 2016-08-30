@@ -1,6 +1,6 @@
 # Franz Changelog
 
-## 4.0.1 (Linux only)
+## 4.0.1 (beta, Linux only)
 * Fixed issue that prevents saving
 
 ## 4.0.0 (beta)
