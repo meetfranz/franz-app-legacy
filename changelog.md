@@ -1,5 +1,8 @@
 # Franz Changelog
 
+## 4.0.1 (Linux only)
+* Fixed issue that prevents saving
+
 ## 4.0.0 (beta)
 * Added option to globally mute/unmute all notificiations
 * Added option to enable/disable services
