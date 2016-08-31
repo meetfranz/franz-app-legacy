@@ -1,5 +1,8 @@
 # Franz Changelog
 
+## 4.0.2 (beta, Linux only)
+* Fixed tray error that is sometimes causing to abort the main process
+
 ## 4.0.1 (beta, Linux only)
 * Fixed issue that prevents saving
 
