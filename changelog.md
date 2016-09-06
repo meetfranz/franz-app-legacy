@@ -1,5 +1,9 @@
 # Franz Changelog
 
+## 4.0.3 (beta)
+* Fixed Rocket.Chat and Mattermost
+* Fixed disable autostart  
+
 ## 4.0.2 (beta, Linux only)
 * Fixed tray error that is sometimes causing to abort the main process
 
