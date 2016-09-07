@@ -1,5 +1,9 @@
 # Franz Changelog
 
+## 4.0.4 (beta)
+* Fixed linux tray icon
+* Fixed issue with custom url validation of plugins
+
 ## 4.0.3 (beta)
 * Fixed Rocket.Chat and Mattermost
 * Fixed disable autostart  
